@@ -1,0 +1,21 @@
+#signin {
+	background-color: #e96920;
+	width: 800px;
+	/* #3366cc */
+	color: #fff;
+	height: 450px;
+	
+}
+#signin a {
+	color: #e241ba;
+	
+}
+.container{
+	position: center;
+}
+#main {
+	
+	width: 700px;
+	padding-left: 50px;
+	padding-right: 50px;
+}

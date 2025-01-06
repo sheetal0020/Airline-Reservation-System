@@ -1,0 +1,76 @@
+{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: sans-serif;
+ }
+body{
+     display: flex;
+     height: 100vh;
+     justify-content: center;
+     align-items: center;
+     padding: 10px;
+	 background: linear-gradient(135deg, #71b7e6, #9b59b6);
+ }
+ /*.jumbotron {
+	background-color: #0066cc; 
+	color: #ffffff;
+}*/
+footer {
+    background-color: #3eacdf;
+	/* 0066cc */
+    color: #fff;
+    padding: 32px;
+	font-size: 18px;
+	
+}
+.container{
+	max-width: 700px;
+	width: 100%;
+	background: rgb(65, 166, 184);	/*change container background to white*/
+	padding: 25px 30px;
+	margin: auto;
+	/* height: auto; */
+}
+
+input[type=username], select{
+	height: 45px;
+	width: 50%;
+	outline: none;
+	align-items: center;
+	border-radius: 5px;
+	border: 1px solid #ccc;
+	padding-left: 15px;
+	font-size: 16px;
+	display: block;
+	border-bottom-width: 2px;
+	transition: all 0.3s ease;
+	margin-bottom: 5px;
+}
+input[type=tel], select{
+	height: 45px;
+	width: 50%;
+	outline: none;
+	border-radius: 5px;
+	border: 1px solid #ccc;
+	padding-left: 15px;
+	font-size: 16px;
+	display: block;
+	border-bottom-width: 2px;
+	transition: all 0.3s ease;
+	margin-bottom: 5px;
+}
+form .button{
+	height: 45px;
+	margin: 45px 0;
+}
+button {
+	background-color: #8b2569;
+	color: rgb(107, 97, 238);
+	padding: 14px 20px;
+	margin: 8px 0;
+	border: none;
+	cursor: pointer;
+	width: 100%;
+	
+  } */
