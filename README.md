@@ -9,25 +9,28 @@ Optimized SQL queries to enhance system performance.
 https://github.com/sheetal0020/Airline-Reservation-System/blob/a1bfacd4cabedf56cfd6558fa037d16dcae31614/addflightdetails.PNG
 
 ## adminhomepage
-![adminhomepage] (https://github.com/sheetal0020/Airline-Reservation-System/blob/a1bfacd4cabedf56cfd6558fa037d16dcae31614/admin%20home%20page.PNG)
+![adminhomepage] ([https://github.com/sheetal0020/Airline-Reservation-System/blob/a1bfacd4cabedf56cfd6558fa037d16dcae31614/admin%20home%20page.PNG](https://github.com/sheetal0020/Airline-Reservation-System/blob/main/addflightdetails.PNG?raw=true))
 
 ## Admin Login
-![Admin Login] (https://github.com/sheetal0020/Airline-Reservation-System/blob/a1bfacd4cabedf56cfd6558fa037d16dcae31614/admin%20login.PNG)
+![Admin Login] (https://github.com/sheetal0020/Airline-Reservation-System/blob/a1bfacd4cabedf56cfd6558fa037d16dcae31614/admin%20login.PNG)](https://github.com/sheetal0020/Airline-Reservation-System/blob/main/admin%20home%20page.PNG?raw=true)
 
 ## cart
-![cart (https://github.com/sheetal0020/Airline-Reservation-System/blob/a1bfacd4cabedf56cfd6558fa037d16dcae31614/cart.PNG)
+![cart] [(https://github.com/sheetal0020/Airline-Reservation-System/blob/a1bfacd4cabedf56cfd6558fa037d16dcae31614/cart.PNG)](https://github.com/sheetal0020/Airline-Reservation-System/blob/main/admin%20login.PNG?raw=true)
 
 ## homepage
-![homepage] (https://github.com/sheetal0020/Airline-Reservation-System/blob/a1bfacd4cabedf56cfd6558fa037d16dcae31614/homepage.PNG)
+![homepage][ (https://github.com/sheetal0020/Airline-Reservation-System/blob/a1bfacd4cabedf56cfd6558fa037d16dcae31614/homepage.PNG](https://github.com/sheetal0020/Airline-Reservation-System/blob/main/homepage.PNG?raw=true
+))
 
 ## homepage2
-![homepage2] (https://github.com/sheetal0020/Airline-Reservation-System/blob/a1bfacd4cabedf56cfd6558fa037d16dcae31614/homepage2.PNG)
-
+![homepage2] [(https://github.com/sheetal0020/Airline-Reservation-System/blob/a1bfacd4cabedf56cfd6558fa037d16dcae31614/homepage2.PNG)
+](https://github.com/sheetal0020/Airline-Reservation-System/blob/main/homepage2.PNG?raw=true)
 ## ticket details
-![ticket details] (https://github.com/sheetal0020/Airline-Reservation-System/blob/a1bfacd4cabedf56cfd6558fa037d16dcae31614/ticket%20details.PNG)
+![ticket details] [(https://github.com/sheetal0020/Airline-Reservation-System/blob/a1bfacd4cabedf56cfd6558fa037d16dcae31614/ticket%20details.PNG)](https://github.com/sheetal0020/Airline-Reservation-System/blob/main/ticket%20details.PNG?raw=true
+)
 
 ## userlogin
-![userlogin] (https://github.com/sheetal0020/Airline-Reservation-System/blob/a1bfacd4cabedf56cfd6558fa037d16dcae31614/user%20login.PNG)
+![userlogin] [(https://github.com/sheetal0020/Airline-Reservation-System/blob/a1bfacd4cabedf56cfd6558fa037d16dcae31614/user%20login.PNG)](https://github.com/sheetal0020/Airline-Reservation-System/blob/main/user%20login.PNG?raw=true
+)
 
 ## user registration
-![ user registration] (https://github.com/sheetal0020/Airline-Reservation-System/blob/a1bfacd4cabedf56cfd6558fa037d16dcae31614/user_registration.PNG)
+![ user registration] [(https://github.com/sheetal0020/Airline-Reservation-System/blob/a1bfacd4cabedf56cfd6558fa037d16dcae31614/user_registration.PNG)](https://github.com/sheetal0020/Airline-Reservation-System/blob/main/user_registration.PNG?raw=true)
